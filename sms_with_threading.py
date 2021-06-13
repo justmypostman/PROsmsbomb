@@ -18,7 +18,7 @@ try:
 except:
 	pass
 print(banner)
-_phone = input('Hello! Number for attack (79xxxxxxxxx)-->> ')
+_phone = input('Hello! Number for attack (79992007531)-->> ')
 
 if _phone[0] == '+':
 	_phone = _phone[1:]
